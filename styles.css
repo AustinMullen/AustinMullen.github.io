@@ -1,0 +1,30 @@
+<html> 
+
+h1 {color: red; font-size: 22pt;} 
+p {color: navy; font-weight: bold;} 
+Body { background: lightyellow; 
+	     color: navy;
+	     font-size: 14pt;
+	   }
+
+body { 	background: red;
+color: indigo;
+   	    	font-size: 14pt;
+       		font-family: 'Felipa'; 
+ 			    }
+
+work p  { color: green }
+me p { color: orange }
+
+H1 {font-size: 250%;
+	              font-weight: bold;
+	              color: purple}
+    
+    nav a {	display: inline-block;
+  	border: 2px solid navy;
+    padding: 10px;
+		margin: 5px;
+		background: yellow;}
+
+
+<html>
